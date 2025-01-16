@@ -18,6 +18,13 @@ Currently the only way to install this package is through GitHub.
 pip install git+https://github.com/luhann/lumisc.py
 ```
 
+or if you use [uv](https://docs.astral.sh/uv/):
+
+```python
+uv pip install git+https://github.com/luhann/lumisc.py
+```
+
+
 Alternatively, you can also clone this git repo and run "pip install ." from the repo directory.
 
 If you find a bug, please file a minimal reproducible example in the
@@ -29,5 +36,3 @@ I welcome contributions of all types\!
 
 I am currently also using this package as a way to learn python package development so any help is greatly appreciated. I encourage typo corrections, bug reports, bug fixes and feature
 requests.
-
-
